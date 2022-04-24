@@ -6,4 +6,4 @@ image: /assets/img/oranges.jpg
 description: "This is a post this could be how u post"
 ---
 
-![rose](./assets/img/rose.jpg?raw=true)
+![ros1e](https://github.com/leonard-hacker/marcbday/blob/main/assets/img/rose.jpg?raw=true)
