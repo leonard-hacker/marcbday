@@ -1,9 +1,12 @@
 ---
-title: Lorem Ipsum
+title: Hey Marc
 layout: post
 categories: [Tips, Markdown]
 image: /assets/img/oranges.jpg
-description: "Lorem Ipsum"
+description: "This is a post this could be how u post"
 ---
 
-![test](https://raw.githubusercontent.com/leonard-hacker/marcbday/master/assets/img/rose.jpg?raw=true)
+![test](https://raw.githubusercontent.com/leonard-hacker/marcbday/main/assets/img/rose.jpg?raw=true)
+
+
+
